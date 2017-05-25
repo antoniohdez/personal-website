@@ -1,5 +1,4 @@
 window.onload = function() {
-    
     /*
         Smooth scroll on internal links
     */
