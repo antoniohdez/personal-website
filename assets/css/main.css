@@ -114,6 +114,7 @@ a {
     padding: .75rem .5rem;
     cursor: pointer;
     text-align: center;
+    text-decoration: none;
     width: calc(50% - 1.25rem);
 }
 
