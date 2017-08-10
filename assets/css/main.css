@@ -72,7 +72,7 @@ a {
 
 @media only screen and (min-width: 801px) {
     .card {
-        width: calc(33% - 1rem);
+        width: calc(25% - 1rem);
     }   
 }
 
